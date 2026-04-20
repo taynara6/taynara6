@@ -17,8 +17,8 @@
 -->
 
 <div align="center">  
-  <img width="45%" height="125" src="https://github-readme-stats.vercel.app/api?username=taynara6&rank_icon=github&show_icons=true&count_private=true&hide_border=ffffff&title_color=7d1cc7&icon_color=7d1cc7&text_color=c9d1d9&bg_color=0d1117" alt="Taynara S. Rocha github stats"/> 
-  <img width="49%" height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taynara6&layout=compact&hide_border=ffffff&title_color=7d1cc7&text_color=7d1cc7&bg_color=0d1117" />
+  <img height="125" src="https://github-readme-stats.vercel.app/api?username=taynara6&rank_icon=github&show_icons=true&count_private=true&hide_border=ffffff&title_color=7d1cc7&icon_color=7d1cc7&text_color=c9d1d9&bg_color=0d1117" alt="Taynara S. Rocha github stats"/> 
+   <img height="126" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=taynara6&llayout=compact&hide_border=ffffff&title_color=7d1cc7&text_color=7d1cc7&bg_color=0d1117">
 </div>
 <br>
 
