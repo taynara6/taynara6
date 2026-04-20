@@ -8,13 +8,14 @@
 </div>
 
 <div align="center">
-  <img  lign="center" alt="Tay-avatar" height="80" width="90" src="https://img.icons8.com/?size=100&id=Y3dNeJNbYAki&format=png&color=000000" />
+  <img  lign="center" alt="Tay-avatar" height="80" width="90" src="https://img.icons8.com/?size=100&id=Y3dNeJNbYAki&format=png&color=7d1cc7" />
 </div>
 
+<!--
 <div align="center">
-  <img lign="center" alt="Tay-avatar" height="40" width="50"  src="https://img.shields.io/badge/Tay_♡-7d1cc7" />
+  <img lign="center" alt="Tay-avatar" height="40" width="70"  src="https://img.shields.io/badge/Tay_♡-7d1cc7" />
 </div>
-
+-->
 
 
 <div align="center">  
