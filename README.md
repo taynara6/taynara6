@@ -4,7 +4,11 @@
 
 <div align="center" width="100%">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7d1cc7&width=900&size=22&center=true&lines=Olá!🙋‍♀️+Eu+sou+a+Taynara🥷;Tenho+26+anos!;Sou+estudante+de+Sistemas+de+Informação+no+IFNMG;Seja+Bem-vindo(a)!" alt="Typing SVG"/>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&pause=1000&color=7D1CC7&background=170A24&center=true&width=625&lines=Ol%C3%A1!%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%80%EF%B8%8F+Eu+sou+a+Taynara!%F0%9F%A5%B7%F0%9F%8F%BE;Tenho+26+anos!;Cursando+Sistemas+de+Informa%C3%A7%C3%A3o+no+IFNMG-Janu%C3%A1ria;Seja+Bem-vindo(a)!+%E2%98%BA%EF%B8%8F)](https://git.io/typing-svg)
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&pause=1000&color=7D1CC7&background=170A24&center=true&width=625&lines=Ol%C3%A1!%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%80%EF%B8%8F+Eu+sou+a+Taynara!%F0%9F%A5%B7%F0%9F%8F%BE;Tenho+26+anos!;Cursando+Sistemas+de+Informa%C3%A7%C3%A3o+no+IFNMG-Janu%C3%A1ria;Seja+Bem-vindo(a)!+%E2%98%BA%EF%B8%8F" alt="Typing SVG" /></a>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7d1cc7&width=900&size=22&center=true&lines=Olá!+Eu+sou+a+Taynara;Tenho+26+anos!;Sou+estudante+de+Sistemas+de+Informação+no+IFNMG;Seja+Bem-vindo(a)!" alt="Typing SVG"/>
 </div>
 
 <div align="center">
