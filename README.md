@@ -5,10 +5,6 @@
 <div align="center" width="100%">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&pause=1000&color=7D1CC7&background=170A24&center=true&width=625&lines=Ol%C3%A1!%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%80%EF%B8%8F+Eu+sou+a+Taynara!%F0%9F%A5%B7%F0%9F%8F%BE;Tenho+26+anos!;Cursando+Sistemas+de+Informa%C3%A7%C3%A3o+no+IFNMG-Janu%C3%A1ria;Seja+Bem-vindo(a)!+%E2%98%BA%EF%B8%8F)](https://git.io/typing-svg)
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&pause=1000&color=7D1CC7&background=170A24&center=true&width=625&lines=Ol%C3%A1!%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%80%EF%B8%8F+Eu+sou+a+Taynara!%F0%9F%A5%B7%F0%9F%8F%BE;Tenho+26+anos!;Cursando+Sistemas+de+Informa%C3%A7%C3%A3o+no+IFNMG-Janu%C3%A1ria;Seja+Bem-vindo(a)!+%E2%98%BA%EF%B8%8F" alt="Typing SVG" /></a>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7d1cc7&width=900&size=22&center=true&lines=Olá!+Eu+sou+a+Taynara;Tenho+26+anos!;Sou+estudante+de+Sistemas+de+Informação+no+IFNMG;Seja+Bem-vindo(a)!" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -32,13 +28,13 @@
 
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Tay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tay-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Tay-arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
-  <img lign="center" alt="Tay-acanva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img lign="center" alt="Tay-git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
-  <img lign="center" alt="Tay-agithub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-  <img lign="center" alt="Tay-agithub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />         
+  <img alt="Tay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Tay-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img alt="Tay-arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+  <img alt="Tay-acanva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="Tay-git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+  <img alt="Tay-agithub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+  <img alt="Tay-agithub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />         
 </div>
 
 <div align="center">
